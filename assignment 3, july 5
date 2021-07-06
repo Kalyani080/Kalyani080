@@ -1,4 +1,4 @@
-[09:04, 06/07/2021] Deepu2🍫: class Solution {
+ class Solution {
     multiply(arr,n){
        let sum1 = 0;
        for(let i = 0;i<Math.floor(n/2);i++){
@@ -10,8 +10,7 @@
        }
        return (sum1 * sum2);
     }
-}
-[09:04, 06/07/2021] Deepu2🍫: For Input:
+} For Input:
 4
 1 2 3 4
 your output is: 
